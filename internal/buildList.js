@@ -40,7 +40,7 @@ module.exports = function buildList() {
     },
     tags: {},
     logoURI:
-      "https://raw.githubusercontent.com/sushiswap/art/master/sushi/logo-256x256.png",
+      "https://raw.githubusercontent.com/kiran-blockchain/art/master/sushi/logo-256x256.png",
     keywords: ["sushiswap", "default"],
     tokens: [
       ...mainnet,
